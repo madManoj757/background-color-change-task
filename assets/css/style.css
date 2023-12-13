@@ -1,0 +1,21 @@
+.box{
+    width:300px;
+    height:300px;
+    margin-bottom: 20px;
+}
+
+.red > .box{
+    background-color: red;
+}
+
+.yellow > .box{
+    background-color: yellow;
+}
+
+.aqua > .box{
+    background-color:aqua;
+}
+
+.hotpink > .box{
+    background-color:hotpink;
+}
